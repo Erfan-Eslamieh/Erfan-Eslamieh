@@ -1,14 +1,9 @@
 ## 💫 About Me
+حتماً، اینم نسخه‌ی خیلی کوتاه و مستقیمش:
 
-I'm currently focused on building AI systems using machine learning and deep learning, with particular interest in cognitive modeling, natural language processing, and user-centered design. Alongside my technical work, I explore 3D web development with [Three.js](https://threejs.org/) as a creative outlet and a way to visualize complex ideas.
+---
 
-I'm especially interested in collaborating on AI projects that leverage natural language processing, generative AI, or cognitive applications to improve mental health, education, and accessibility. I'm also looking for support in areas like scalable model evaluation, enhancing explainability in deep learning, integrating generative AI with neurocognitive data, and streamlining ML deployment pipelines.
-
-Currently, I'm diving deeper into advanced deep learning topics such as CNNs, Transformers, and RNNs, as well as the LangChain framework, prompt engineering, and building intelligent systems that merge language understanding with cognitive science.
-
-Feel free to reach out if you'd like to discuss deep learning pipelines in Python, cognitive data modeling, working with neurocognitive datasets, 3D web design with Three.js, or how we can bridge the gap between cognitive science and AI.
-
-⚡ **Fun fact**: My journey into AI began with a university course taken out of curiosity — and it sparked a long-term mission to create human-aware intelligent systems at the intersection of brain science, language, and technology.
+I work on machine learning and deep learning with a focus on generative AI and its intersection with cognitive science and neuroscience. I'm especially interested in building models that combine brain data and language understanding. Currently exploring Transformers, LangChain, and cognitive applications of AI.
 
 
 # 💻 Tech Stack:
