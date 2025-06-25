@@ -1,7 +1,4 @@
 ## 💫 About Me
-حتماً، اینم نسخه‌ی خیلی کوتاه و مستقیمش:
-
----
 
 I work on machine learning and deep learning with a focus on generative AI and its intersection with cognitive science and neuroscience. I'm especially interested in building models that combine brain data and language understanding. Currently exploring Transformers, LangChain, and cognitive applications of AI.
 
