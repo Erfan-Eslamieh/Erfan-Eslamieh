@@ -10,8 +10,9 @@ I work on machine learning and deep learning with a focus on generative AI and i
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <p align="center">
   <h2><strong>🏆 GitHub Trophies</strong></h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=Erfan-Eslamieh&theme=nightowl&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=Erfan-Eslamieh&theme=nightowl&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
+
 
 
 
