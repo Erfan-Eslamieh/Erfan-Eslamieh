@@ -19,11 +19,11 @@ I work on machine learning and deep learning with a focus on generative AI and i
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Erfan-Eslamieh&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-ashen-two.vercel.app/api?username=Erfan-Eslamieh&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Erfan-Eslamieh&theme=nightowl&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Erfan-Eslamieh&theme=nightowl&hide_border=false" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erfan-Eslamieh&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-ashen-two.vercel.app/api/top-langs/?username=Erfan-Eslamieh&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
 
